@@ -1,0 +1,76 @@
+img{
+    width: 300px;
+    height: 155px;
+    position: relative;
+    left: 60px;
+    padding-top: 25px;
+
+}
+
+.Region{
+    font-size: 20px;
+    color: rgb(19, 151, 196);
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.card{
+    text-align: left;
+    width: 400px;
+    height: 500px;
+    margin-left: 70px;
+}
+
+.card-group{
+    float: left;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+
+body{
+    background-color: rgb(194,173,161);
+    position: relative;
+    left: 200px;
+}
+
+button {
+    position: relative;
+    left: 110px;
+    border: none;
+    background-color: rgb(16, 75, 94);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding: 15px 20px;
+  }
+  h5{
+      text-align: center;
+      color: rgb(16, 75, 94);
+      font-family: 'Roboto', sans-serif;
+      font-size: 25px;
+   
+  }
+  .h1{
+      text-align: center;
+      color: rgb(230, 57, 57);
+      font-family: 'Roboto', sans-serif;
+      font-size: 50px;
+   
+  }
+  p{
+      text-align: center;
+      color: rgba(0, 0, 0, 0.808);
+      font-family: 'Montserrat', sans-serif;
+      font-size: 20px;
+     
+  }
+  .cardbody{
+      background-color: rgb(165, 197, 231);
+      border: none;
+      box-shadow: 2px 2px 3px 3px rgba(104, 104, 104, 0.212);
+      width: 500px;
+      position: relative;
+      right: 200px;
+      height: 800px;
+      bottom: 100px;
+  }
